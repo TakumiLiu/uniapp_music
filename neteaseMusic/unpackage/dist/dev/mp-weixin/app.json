@@ -1,0 +1,29 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/list/list",
+        "pages/detail/detail",
+        "pages/search/search",
+        "pages/center/center",
+        "pages/test/test",
+        "pages/auth/login",
+        "pages/center/changeinfo",
+        "pages/list/play_list",
+        "pages/list/collect_list",
+        "pages/auth/reg",
+        "pages/auth/fogetpwd",
+        "pages/auth/rewritepwd"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "uni-app",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "requiredBackgroundModes": [
+        "audio"
+    ],
+    "usingComponents": {},
+    "sitemapLocation": "sitemap.json"
+}

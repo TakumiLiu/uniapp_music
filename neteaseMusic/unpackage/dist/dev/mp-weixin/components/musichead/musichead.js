@@ -1,0 +1,11 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["components/musichead/musichead"],{254:function(n,e,t){"use strict";t.r(e);var r=t(255),u=t(257);for(var c in u)"default"!==c&&function(n){t.d(e,n,(function(){return u[n]}))}(c);t(259);var o,i=t(13),a=Object(i["default"])(u["default"],r["render"],r["staticRenderFns"],!1,null,"e0b6e5e0",null,!1,r["components"],o);a.options.__file="components/musichead/musichead.vue",e["default"]=a.exports},255:function(n,e,t){"use strict";t.r(e);var r=t(256);t.d(e,"render",(function(){return r["render"]})),t.d(e,"staticRenderFns",(function(){return r["staticRenderFns"]})),t.d(e,"recyclableRender",(function(){return r["recyclableRender"]})),t.d(e,"components",(function(){return r["components"]}))},256:function(n,e,t){"use strict";var r;t.r(e),t.d(e,"render",(function(){return u})),t.d(e,"staticRenderFns",(function(){return o})),t.d(e,"recyclableRender",(function(){return c})),t.d(e,"components",(function(){return r}));var u=function(){var n=this,e=n.$createElement;n._self._c},c=!1,o=[];u._withStripped=!0},257:function(n,e,t){"use strict";t.r(e);var r=t(258),u=t.n(r);for(var c in r)"default"!==c&&function(n){t.d(e,n,(function(){return r[n]}))}(c);e["default"]=u.a},258:function(n,e,t){"use strict";(function(n){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var t={name:"musichead",data:function(){return{}},props:["title","icon","color","iconblack"],methods:{handleToBack:function(){n.navigateBack({})},handleToHome:function(){n.navigateTo({url:"/pages/index/index"})}}};e.default=t}).call(this,t(1)["default"])},259:function(n,e,t){"use strict";t.r(e);var r=t(260),u=t.n(r);for(var c in r)"default"!==c&&function(n){t.d(e,n,(function(){return r[n]}))}(c);e["default"]=u.a},260:function(n,e,t){}}]);
+//# sourceMappingURL=../../../.sourcemap/mp-weixin/components/musichead/musichead.js.map
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'components/musichead/musichead-create-component',
+    {
+        'components/musichead/musichead-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('1')['createComponent'](__webpack_require__(254))
+        })
+    },
+    [['components/musichead/musichead-create-component']]
+]);

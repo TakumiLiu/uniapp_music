@@ -1,0 +1,23 @@
+
+.bar-bottom {
+	display: flex;
+	position: fixed;
+	bottom: 0;
+	width: 750rpx;
+	background: rgb(243, 243, 243);
+	justify-content: space-around;
+	/* overflow: hidden; */
+}
+.bar-bottom-list {
+	margin: 10rpx auto;
+}
+.bar-bottom-img {
+	height: 48rpx;
+	width: 48rpx;
+}
+.bar-bottom-name {
+	font-size: 24rpx;
+	display: block;
+	text-align: center;
+}
+
